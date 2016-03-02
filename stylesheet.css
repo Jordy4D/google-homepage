@@ -1,0 +1,52 @@
+#nav {
+	text-align: right;
+}
+
+#nav li{
+	text-decoration: none;
+	display: inline;
+	padding: 5px;
+
+}
+
+#nav a:hover {
+	text-decoration: none;
+	color: red;
+}
+
+
+.logo img {
+	display: block;
+	position: relative;
+	height: 250px;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 10%;
+}
+
+.search-bar {
+	display: block;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.search-bar input {
+	width: 400px;
+	height: 20px;
+}
+
+.buttons {
+	display: inline;
+	text-align: center;
+	height: 20px;
+	width: auto;
+}
+
+.footer p {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
